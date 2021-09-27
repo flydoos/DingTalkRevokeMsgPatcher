@@ -70,7 +70,7 @@ QQ群：223541319 （催更请进群）
 
 ## 📄开源协议
 
-基于 [木兰宽松许可证（第2版）](http://license.coscl.org.cn/MulanPSL2/) 进行开源。
+基于 [木兰宽松许可证（第2版）](http://license.coscl.org.cn/MulanPSL2/) 协议。
 
 ## 免责申明
 
