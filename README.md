@@ -25,10 +25,9 @@
 4. 支持撤回消息提醒
 
 下载地址：
-**[⚡️点我下载最新版本](https://github.com/flydoos/DingTalkRevokeMsgPatcher/releases/download/1.0.0/DingTalkRevokeMsgPatcher.v1.0.0.zip)** |
-[☁备用下载-蓝奏云](https://wwa.lanzoui.com/iFRDguke5nc)
+**[⚡️点我下载最新版本](https://github.com/flydoos/DingTalkRevokeMsgPatcher/releases/latest)**
 
-相关文档：
+可用范围：
 **[✔支持哪些版本]**
 
 |  名称   | 支持历史版本  |
