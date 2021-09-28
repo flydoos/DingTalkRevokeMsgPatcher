@@ -11,9 +11,10 @@
 	</a>
 </p>
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Star.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher@1.0.1/Images/Star.png)
 
-# 👀钉钉电脑版防撤回插件（钉钉防撤回补丁）
+## 👀钉钉电脑版防撤回插件（钉钉防撤回补丁）
+
 钉钉电脑版防撤回插件2021由“牛A与牛C之间”开发制作，适用于 Windows 下 PC 版钉钉的防撤回补丁，支持6.x或以上版本，不支持5.x。**支持最新版钉钉**
 
 钉钉防撤回吾乐吧优化版 2021
@@ -76,4 +77,4 @@ QQ群：223541319 （催更请进群）
 
 ## 免责申明
 
-本程序是作者闲暇之余，方便自己使用而开发的一个小工具。如果对其他人/公司造成不好的影响，请到QQ群联系作者，我会马上删除，谢谢！
+本程序是作者闲暇之余，方便自己使用而开发的一个小工具。如果对其他人/公司造成不好的影响，请到QQ群联系作者，我会马上删除，谢谢。
