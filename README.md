@@ -1,6 +1,6 @@
 
 <p align="center">
-	<a><img width="100px" src="https://raw.githubusercontent.com/flydoos/DingTalkRevokeMsgPatcher/main/Images/Logo.png"/></a>
+	<a><img width="100px" src="https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Logo.png"/></a>
 </p>
 <p align="center">
 	<a href="https://www.microsoft.com/download/details.aspx?id=30653">
@@ -10,6 +10,8 @@
 		<img src="https://img.shields.io/github/downloads/flydoos/DingTalkRevokeMsgPatcher/total.svg?style=flat-square"/>
 	</a>
 </p>
+
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Star.png)
 
 # 👀钉钉电脑版防撤回插件（钉钉防撤回补丁）
 钉钉电脑版防撤回插件2021由“牛A与牛C之间”开发制作，适用于 Windows 下 PC 版钉钉的防撤回补丁，支持6.x或以上版本，不支持5.x。**支持最新版钉钉**
@@ -35,9 +37,9 @@
 | 钉钉PC版  | 6.0.22、6.0.26、6.0.30 |
 
 ## 📷截图
-![Screenshot](https://raw.githubusercontent.com/flydoos/DingTalkRevokeMsgPatcher/main/Images/Screenshot-1.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-1.png)
 
-![Screenshot](https://raw.githubusercontent.com/flydoos/DingTalkRevokeMsgPatcher/main/Images/Screenshot-2.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-2.png)
 
 ## 🔨使用方法
 
@@ -56,7 +58,7 @@
 
 注意：钉钉更新之后要重新安装补丁！
 
-![Screenshot](https://raw.githubusercontent.com/flydoos/DingTalkRevokeMsgPatcher/main/Images/Revoke.jpg)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Revoke.jpg)
 
 ## ❤联系我
 
@@ -75,5 +77,3 @@ QQ群：223541319 （催更请进群）
 ## 免责申明
 
 本程序是作者闲暇之余，方便自己使用而开发的一个小工具。如果对其他人/公司造成不好的影响，请到QQ群联系作者，我会马上删除，谢谢。
-
-![](https://raw.githubusercontent.com/flydoos/DingTalkRevokeMsgPatcher/main/Images/Star.png)
