@@ -3,7 +3,7 @@
 	<a><img width="100px" src="https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Logo.png"/></a>
 </p>
 <p align="center">
-	<a href="https://www.microsoft.com/download/details.aspx?id=30653">
+	<a href="https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=17718">
 		<img src="https://img.shields.io/badge/platform-windows-lightgrey.svg?style=flat-square"/>
 	</a>
 	<a href="https://github.com/flydoos/DingTalkRevokeMsgPatcher/releases">
