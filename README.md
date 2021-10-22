@@ -10,8 +10,9 @@
 		<img src="https://img.shields.io/github/downloads/flydoos/DingTalkRevokeMsgPatcher/total.svg?style=flat-square"/>
 	</a>
 </p>
-
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/ClickStar.png)
+<p align="center">
+	<img src="https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/ClickStar.png"/>
+</p>
 
 # 👀钉钉电脑版防撤回插件（钉钉防撤回补丁）
 钉钉电脑版防撤回插件2021由“牛A与牛C之间”开发制作，适用于 Windows 下 PC 版钉钉的防撤回补丁，支持6.x或以上版本，不支持5.x。**支持最新版钉钉**
