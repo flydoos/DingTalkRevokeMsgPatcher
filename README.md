@@ -65,7 +65,7 @@ QQ群：223541319 （催更请进群）
 
 博客：https://www.cnblogs.com/flydoos
 
-官网：http://www.wuleba.com （别问我为啥打不开，因为我把网站关闭了，没时间打理）
+官网：http://www.wuleba.com （国庆的时候网站恢复了，大家去支持下）
 
 对 "DingTalkRevokeMsgPatcher" 有任何使用上或者技术上的疑问，欢迎随时联系作者。
 
