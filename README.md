@@ -15,9 +15,9 @@
 </p>
 
 # 👀钉钉消息防撤回插件（钉钉消息防撤回补丁）
-钉钉电脑版防撤回插件2022由“牛A与牛C之间”开发制作，适用于 Windows 下 PC 版钉钉的防撤回补丁，支持6.x或以上版本，不支持5.x。**支持最新版钉钉**
+钉钉消息防撤回补丁PC版（原名：钉钉电脑版防撤回插件）由由“牛A与牛C之间”开发制作，适用于 Windows 下 PC 版钉钉的防撤回补丁，支持6.x或以上版本，不支持5.x。**支持最新版钉钉**
 
-钉钉防撤回吾乐吧优化版 2022
+钉钉消息防撤回补丁吾乐吧优化版 2022
 
 1. 支持文字消息防撤回
 
@@ -35,10 +35,10 @@
 
 |  名称   | 支持历史版本  |
 |  ----  | ----  |
-| 钉钉PC版  | 6.0.22、6.0.26、6.0.30、6.3.5、6.3.15 |
+| 钉钉PC版  | 6.0.22、6.0.26、6.0.30、6.3.5、6.3.15、6.3.25 |
 
 ## 📷截图
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-1.0.6.jpg)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-2.0.1.jpg)
 
 ## 🔨使用方法
 
