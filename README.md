@@ -42,7 +42,7 @@
 | 钉钉PC版  | 6.0.22、6.0.26、6.0.30、6.3.5、6.3.15、6.3.25 |
 
 ## 📷截图
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-2.0.3.jpg)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-2.0.4.jpg)
 
 ## 🔨使用方法
 
