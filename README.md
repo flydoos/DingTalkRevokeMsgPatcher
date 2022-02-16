@@ -25,11 +25,17 @@
 
 3. 支持文件识别、URL识别、卡片回复消息识别等
 
-4. 支持撤回消息提醒
+4. 🆕支持富文本消息防撤回
 
-5. 由于之前的名字不利于搜索，故软件更名为“钉钉消息防撤回补丁PC版”（原名：钉钉电脑版防撤回插件）
+5. 支持个人消息防撤回，以及群主或管理员消息防撤回
 
-6. 新增群主或管理员消息防撤回（以前只有个人消息防撤回）
+6. 🆕支持自己发送的消息防撤回
+
+7. 🆕文字消息或富文本消息，允许重新编辑或查看
+
+8. 支持撤回消息提醒
+
+9. 由于之前的名字不利于搜索，故软件更名为“钉钉消息防撤回补丁PC版”（原名：钉钉电脑版防撤回插件）
 
 下载地址：
 **[⚡️点我下载最新版本](https://github.com/flydoos/DingTalkRevokeMsgPatcher/releases/latest)**
@@ -42,7 +48,7 @@
 | 钉钉PC版  | 6.0.22、6.0.26、6.0.30、6.3.5、6.3.15、6.3.25 |
 
 ## 📷截图
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-2.0.4.jpg)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-2.0.5.jpg)
 
 ## 🔨使用方法
 
