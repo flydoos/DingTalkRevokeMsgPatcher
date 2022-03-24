@@ -45,10 +45,10 @@
 
 |  名称   | 支持历史版本  |
 |  ----  | ----  |
-| 钉钉PC版  | 6.0.22、6.0.26、6.0.30、6.3.5、6.3.15、6.3.25 |
+| 钉钉PC版  | 6.0.22、6.0.26、6.0.30、6.3.5、6.3.15、6.3.25、6.5.0 |
 
 ## 📷截图
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-2.0.7.jpg)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-2.0.8.jpg)
 
 ## 🔨使用方法
 
