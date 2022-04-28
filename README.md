@@ -41,9 +41,6 @@
 
 11. 由于之前的名字不利于搜索，故软件更名为“钉钉消息防撤回补丁PC版”（原名：钉钉电脑版防撤回插件）
 
-下载地址：
-**[⚡️最新版防撤回补丁下载](https://github.com/flydoos/DingTalkRevokeMsgPatcher/releases/latest)**
-
 可用范围：
 **[✔支持哪些版本]**
 
@@ -57,8 +54,9 @@
 | 6.5.0 | 6.5.0-Release.3229113、6.5.0-Release.3249116、6.5.0-Release.3289101 |
 | 6.5.10 | 6.5.10-Release.4259102、6.5.10-Release.4259103 |
 
-下载地址：
-**[⚡钉钉安装包历史版本下载](https://www.wuleba.com/?p=1557)**
+下载地址：**[[⚡️最新版防撤回补丁下载]](https://github.com/flydoos/DingTalkRevokeMsgPatcher/releases/latest)**
+
+下载地址：**[[⚡钉钉安装包历史版本下载]](https://www.wuleba.com/?p=1557)**
 
 ## 📷截图
 ![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-3.0.3.jpg)
