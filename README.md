@@ -47,12 +47,18 @@
 可用范围：
 **[✔支持哪些版本]**
 
-|  名称   | 支持历史版本  |
-|  ----  | ----  |
-| 钉钉PC版  | 6.0.22、6.0.26、6.0.30、6.3.5、6.3.15、6.3.25、6.5.0、6.5.10 |
+|  主版本  | 支持历史版本 |
+|  ---- | ---- |
+| 6.0.22 | 6.0.22-Release.7190187 |
+| 6.0.26 | 6.0.26-Release.9039963 |
+| 6.3.5 | 6.3.5-Release.10208701、6.3.5-Release.10278702、6.3.5-Release.11178701、6.3.5-Release.11308701 |
+| 6.3.15 | 6.3.15-Release.12108702 |
+| 6.3.25 | 6.3.25-Release.1209106、6.3.25-Release.1219101、6.3.25-Release.2149108、6.3.25-Release.2189103、6.3.25-Release.3019101 |
+| 6.5.0 | 6.5.0-Release.3229113、6.5.0-Release.3249116、6.5.0-Release.3289101 |
+| 6.5.10 | 6.5.10-Release.4259102、6.5.10-Release.4259103 |
 
 ## 📷截图
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-3.0.2.jpg)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-3.0.3.jpg)
 
 ## 🔨使用方法
 
