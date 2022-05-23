@@ -78,6 +78,20 @@
 
 ![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Revoke2.jpg)
 
+## ❓常见问题
+
+破解失败的常见原因：
+
+钉钉安装之后，如果后面有自动更新，就会导致目录会有2个版本钉钉，估计破解的是A那个程序，你使用的却是B程序
+
+D:\Program Files\DingDing\main\current_new\DingTalk.exe
+
+D:\Program Files\DingDing\main\current\DingTalk.exe
+
+他会有这2个版本，如果你选错了，就会有问题
+
+解决方法：把这2个目录下的程序，全都打一次补丁即可
+
 ## ❤联系我
 
 QQ群：223541319 （催更请进群）
