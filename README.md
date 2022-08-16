@@ -3,19 +3,18 @@
 	<a><img width="100px" src="https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Logo.png"/></a>
 </p>
 <p align="center">
-	<a href="https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=17718">
-		<img src="https://img.shields.io/badge/platform-windows-lightgrey.svg?style=flat-square"/>
-	</a>
-	<a href="https://github.com/flydoos/DingTalkRevokeMsgPatcher/releases">
-		<img src="https://img.shields.io/github/downloads/flydoos/DingTalkRevokeMsgPatcher/total.svg?style=flat-square"/>
-	</a>
+	<a href="https://github.com/flydoos/DingTalkRevokeMsgPatcher/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/flydoos/DingTalkRevokeMsgPatcher?style=flat-square"></a>
+	<a href="https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=17718"><img src="https://img.shields.io/badge/platform-windows-lightgrey.svg?style=flat-square"/></a>
+	<a href="https://github.com/flydoos/DingTalkRevokeMsgPatcher/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/flydoos/DingTalkRevokeMsgPatcher?style=flat-square"></a>
+	<img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/flydoos/DingTalkRevokeMsgPatcher?style=flat-square">
+	<a href="https://github.com/flydoos/DingTalkRevokeMsgPatcher/releases"><img src="https://img.shields.io/github/downloads/flydoos/DingTalkRevokeMsgPatcher/total.svg?style=flat-square"/></a>
 </p>
 <p align="center">
 	<img src="https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/ClickStar.png"/>
 </p>
 
 # 👀钉钉消息防撤回插件（钉钉消息防撤回补丁）
-钉钉消息防撤回补丁PC版（原名：钉钉电脑版防撤回插件）由“牛A与牛C之间”开发制作，适用于 Windows 下 PC 版钉钉的防撤回补丁，支持6.x或以上版本，不支持5.x。**支持最新版钉钉**
+钉钉消息防撤回补丁PC版（原名：钉钉电脑版防撤回插件，也叫：钉钉防撤回补丁、钉钉消息防撤回补丁）由“牛A与牛C之间”开发制作，本程序适用于 Windows 下 PC 版钉钉的消息防撤回，也支持钉钉多开，支持钉钉6.x或以上版本（不支持5.x旧版本），**目前支持最新版钉钉**。
 
 钉钉消息防撤回补丁吾乐吧优化版 2022
 
