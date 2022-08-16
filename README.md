@@ -6,7 +6,7 @@
 	<a href="https://github.com/flydoos/DingTalkRevokeMsgPatcher/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/flydoos/DingTalkRevokeMsgPatcher?style=flat-square"></a>
 	<a href="https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=17718"><img src="https://img.shields.io/badge/platform-windows-lightgrey.svg?style=flat-square"/></a>
 	<a href="https://github.com/flydoos/DingTalkRevokeMsgPatcher/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/flydoos/DingTalkRevokeMsgPatcher?style=flat-square"></a>
-	<img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/flydoos/DingTalkRevokeMsgPatcher?style=flat-square">
+	<a href="https://github.com/flydoos/DingTalkRevokeMsgPatcher/tags"><img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/flydoos/DingTalkRevokeMsgPatcher?style=flat-square"></a>
 	<a href="https://github.com/flydoos/DingTalkRevokeMsgPatcher/releases"><img src="https://img.shields.io/github/downloads/flydoos/DingTalkRevokeMsgPatcher/total.svg?style=flat-square"/></a>
 </p>
 <p align="center">
