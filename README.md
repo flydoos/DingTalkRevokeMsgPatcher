@@ -82,7 +82,7 @@
 
 注意：钉钉更新之后要重新安装补丁！
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Revoke2.jpg)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Revoke3.png)
 
 ## ❓常见问题
 
