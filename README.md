@@ -61,6 +61,8 @@
 | 6.5.40 | 6.5.40-Release.8299121、6.5.40-Release.8309103、6.5.40-Release.9019101、6.5.40-Release.9059101 |
 | 6.5.43 | 6.5.43-Release.9139103 |
 | 6.5.45 | 6.5.45-Release.9199101、6.5.45-Release.9269106 |
+| 6.5.47 | 6.5.47-Release.11099101 |
+| 6.5.50 | 6.5.50-Release.11049103、6.5.50-Release.11089104 |
 
 **下载地址：[⚡️最新版防撤回补丁下载](https://github.com/flydoos/DingTalkRevokeMsgPatcher/releases/latest) | [🦇钉钉安装包历史版本下载](https://www.wuleba.com/?p=1557)**
 
