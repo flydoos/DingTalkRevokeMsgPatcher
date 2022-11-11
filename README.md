@@ -67,7 +67,7 @@
 **下载地址：[⚡️最新版防撤回补丁下载](https://github.com/flydoos/DingTalkRevokeMsgPatcher/releases/latest) | [🦇钉钉安装包历史版本下载](https://www.wuleba.com/?p=1557)**
 
 ## 📷截图
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-4.4.0.jpg)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-4.5.0.jpg)
 
 ## 🔨使用方法
 
