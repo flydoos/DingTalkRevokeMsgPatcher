@@ -63,7 +63,7 @@
 | 6.5.45 | 6.5.45-Release.9199101、6.5.45-Release.9269106 |
 | 6.5.47 | 6.5.47-Release.11099101 |
 | 6.5.50 | 6.5.50-Release.11049103、6.5.50-Release.11089104 |
-| 6.5.51 | 6.5.51-Release.11239103 |
+| 6.5.51 | 6.5.51-Release.11239103、6.5.51-Release.12059102 |
 
 ## 🔗下载地址
 
@@ -71,7 +71,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-4.6.0.jpg)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-4.7.0.jpg)
 
 ## 🔨使用方法
 
