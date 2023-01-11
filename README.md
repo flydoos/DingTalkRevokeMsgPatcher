@@ -33,15 +33,17 @@
 
 08. 支持语音消息防撤回（复制到浏览器打开）
 
-09. 🆕双击安装补丁，增加小火箭进度条特效，解决以往界面无响应问题
+09. 双击安装补丁，增加小火箭进度条特效，解决以往界面无响应问题
 
-10. 🆕支持钉钉多开（支持桌面快捷方式多开）
+10. 支持钉钉多开（支持桌面快捷方式多开）
 
-11. 🆕支持撤回消息提醒（支持显示消息撤回时间）
+11. 支持撤回消息提醒（支持显示消息撤回时间）
 
 12. 支持在线更新检测
 
-13. 由于之前的名字不利于搜索，故软件更名为“钉钉消息防撤回补丁PC版”（原名：钉钉电脑版防撤回插件）
+13. 🆕支持消息永不已读（仅支持钉钉7.0.0及以上版本，可通过聊天窗口右键临时关闭永不已读功能）
+
+14. 由于之前的名字不利于搜索，故软件更名为“钉钉消息防撤回补丁PC版”（原名：钉钉电脑版防撤回插件）
 
 ## 🗓️可用范围
 
@@ -64,7 +66,7 @@
 | 6.5.47 | 6.5.47-Release.11099101 |
 | 6.5.50 | 6.5.50-Release.11049103、6.5.50-Release.11089104 |
 | 6.5.51 | 6.5.51-Release.11239103、6.5.51-Release.12059102 |
-| 7.0.0 | 7.0.0-Release.12279104、7.0.0-Release.12299103、7.0.0-Release.1049103、7.0.0-Release.1069106 |
+| 7.0.0 | 7.0.0-Release.12279104、7.0.0-Release.12299103、7.0.0-Release.1049103、7.0.0-Release.1069106、7.0.0-Release.1109109 |
 
 ## 🔗下载地址
 
@@ -72,7 +74,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-4.9.2.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-5.0.0.png)
 
 ## 🔨使用方法
 
@@ -90,6 +92,8 @@
 5. 点击安装补丁。界面可能会出现一段时间的无响应，请耐心等待。**由于修改了钉钉的 web_content.pak 文件，杀毒软件可能会弹出警告，放行即可。**
 
 注意：钉钉更新之后要重新安装补丁！
+
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/MessageUnRead.png)
 
 ![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Revoke.png)
 
