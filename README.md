@@ -67,7 +67,8 @@
 | 6.5.50 | 6.5.50-Release.11049103、6.5.50-Release.11089104 |
 | 6.5.51 | 6.5.51-Release.11239103、6.5.51-Release.12059102 |
 | 7.0.0 | 7.0.0-Release.12279104、7.0.0-Release.12299103、7.0.0-Release.1049103、7.0.0-Release.1069106、7.0.0-Release.1109109、7.0.0-Release.1129102、7.0.0-Release.2019102 |
-| 7.0.10 | 7.0.10-Release.2219104、7.0.10-Release.2239102、7.0.10-Release.2279103 |
+| 7.0.10 | 7.0.10-Release.2219104、7.0.10-Release.2239102、7.0.10-Release.2279103、7.0.10-Release.3019101 |
+| 7.0.11 | 7.0.11-Release.3029105、7.0.11-Release.3069101 |
 
 ## 🔗下载地址
 
@@ -75,7 +76,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-5.2.2.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-5.3.0.png)
 
 ## 🔨使用方法
 
