@@ -69,6 +69,7 @@
 | 7.0.0 | 7.0.0-Release.12279104、7.0.0-Release.12299103、7.0.0-Release.1049103、7.0.0-Release.1069106、7.0.0-Release.1109109、7.0.0-Release.1129102、7.0.0-Release.2019102 |
 | 7.0.10 | 7.0.10-Release.2219104、7.0.10-Release.2239102、7.0.10-Release.2279103、7.0.10-Release.3019101 |
 | 7.0.11 | 7.0.11-Release.3029105、7.0.11-Release.3069101、7.0.11-Release.3079107、7.0.11-Release.3139102 |
+| 7.0.20 | 7.0.20-Release.3299105 |
 
 ## 🔗下载地址
 
@@ -76,7 +77,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-5.3.2.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-5.4.0.png)
 
 ## 🔨使用方法
 
