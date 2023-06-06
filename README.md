@@ -43,7 +43,9 @@
 
 13. 🆕支持消息永不已读（仅支持钉钉7.0.0及以上版本，可通过聊天窗口右键临时关闭永不已读功能）
 
-14. 由于之前的名字不利于搜索，故软件更名为“钉钉消息防撤回补丁PC版”（原名：钉钉电脑版防撤回插件）
+14. 🆕支持屏蔽钉钉升级（实验性功能）
+
+15. 由于之前的名字不利于搜索，故软件更名为“钉钉消息防撤回补丁PC版”（原名：钉钉电脑版防撤回插件）
 
 ## 🗓️可用范围
 
@@ -72,7 +74,7 @@
 | 7.0.20 | 7.0.20-Release.3299105、7.0.20-Release.4039104、7.0.20-Release.4049113、7.0.20-Release.4119105、7.0.20-Release.4129103 |
 | 7.0.21 | 7.0.21-Release.4249101 |
 | 7.0.22 | 7.0.22-Release.5109101 |
-| 7.0.30 | 7.0.30-Release.5259107 [【钉钉安装包历史版本下载】](https://www.wuleba.com/?p=1557) |
+| 7.0.30 | 7.0.30-Release.5259107、7.0.30-Release.6019102 [【钉钉安装包历史版本下载】](https://www.wuleba.com/?p=1557) |
 
 ## 🔗下载地址
 
@@ -80,7 +82,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-5.6.0.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-5.7.0.png)
 
 ## 🔨使用方法
 
