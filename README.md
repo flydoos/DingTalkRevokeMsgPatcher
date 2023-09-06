@@ -78,7 +78,7 @@
 | 7.0.31 | 7.0.31-Release.6149102 |
 | 7.0.40 | 7.0.40-Release.6289101、7.0.40-Release.6289103、7.0.40-Release.7049102 |
 | 7.0.41 | 7.0.41-Release.7179101 |
-| 7.0.50 | 7.0.50-Release.8089104、7.0.50-Release.8149101 [【钉钉安装包历史版本下载】](https://www.wuleba.com/?p=1557) |
+| 7.0.50 | 7.0.50-Release.8089104、7.0.50-Release.8149101、7.0.50-Release.8289105 [【钉钉安装包历史版本下载】](https://www.wuleba.com/?p=1557) |
 
 ## 🔗下载地址
 
@@ -86,7 +86,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-5.9.2.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-5.9.3.png)
 
 ## 🔨使用方法
 
