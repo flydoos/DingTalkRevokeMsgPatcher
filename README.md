@@ -86,7 +86,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-5.9.3.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-5.9.4.png)
 
 ## 🔨使用方法
 
