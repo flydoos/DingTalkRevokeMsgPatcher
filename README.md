@@ -45,7 +45,9 @@
 
 14. 🆕支持屏蔽钉钉升级（实验性功能）
 
-15. 由于之前的名字不利于搜索，故软件更名为“钉钉消息防撤回补丁PC版”（原名：钉钉电脑版防撤回插件）
+15. 🆕支持右键菜单强制转发消息（有些可以转发，有些依然不行）
+
+16. 由于之前的名字不利于搜索，故软件更名为“钉钉消息防撤回补丁PC版”（原名：钉钉电脑版防撤回插件）
 
 ## 🗓️可用范围
 
@@ -90,7 +92,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-5.9.11.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-5.10.1.png)
 
 ## 🔨使用方法
 
