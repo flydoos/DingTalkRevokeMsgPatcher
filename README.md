@@ -153,10 +153,6 @@ QQ群：223541319 （催更请进群）
 
 ![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Donate.png)
 
-## 📄协议说明
-
-基于 [木兰宽松许可证（第2版）](http://license.coscl.org.cn/MulanPSL2/) 协议。
-
 ## ⚖️免责声明
 
 本程序是作者闲暇之余，方便自己使用而开发的一个小工具。如果对其他人/公司造成不好的影响，请到QQ群联系作者，我会马上删除，谢谢。
