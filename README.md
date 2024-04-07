@@ -92,7 +92,9 @@
 
 ## 🔗下载地址
 
-**下载地址：[⚡️最新版防撤回补丁下载](https://github.com/flydoos/DingTalkRevokeMsgPatcher/releases/latest) | [🦇钉钉安装包历史版本下载](https://www.wuleba.com/?p=1557)**
+**下载地址：[⚡️最新版钉钉消息防撤回补丁下载](https://github.com/flydoos/DingTalkRevokeMsgPatcher/releases/latest) | [🦇钉钉安装包历史版本下载](https://www.wuleba.com/?p=1557)**
+
+其他推荐：[📖飞书消息防撤回补丁下载](https://github.com/flydoos/FeiShuRevokeMsgPatcher) | [🔖查看作者更多作品](https://github.com/flydoos)
 
 ## 📷截图
 
