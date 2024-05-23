@@ -47,17 +47,15 @@
 
 15. 🆕新增自动以管理员身份运行本程序
 
-16. 由于之前的名字不利于搜索，故软件更名为“钉钉消息防撤回补丁PC版”（原名：钉钉电脑版防撤回插件）
+16. 🆕支持消息永不已读（仅支持钉钉7.0.0及以上版本，2024年5月23日开始，不再支持聊天窗口右键临时关闭永不已读功能，如需临时关闭，请重装安装补丁且不要勾选消息永不已读）
+
+17. 由于之前的名字不利于搜索，故软件更名为“钉钉消息防撤回补丁PC版”（原名：钉钉电脑版防撤回插件）
 
 ## 🌅高级功能
 
 **以下功能必须通过“钉钉多开.lnk”桌面快捷方式启动钉钉才可以使用：**
 
-1. 🔥支持消息永不已读（仅支持钉钉7.0.0及以上版本，可通过聊天窗口右键临时关闭永不已读功能）
-
-2. 🔥支持右键菜单强制转发消息（有些消息可以转发，有些依然不行）
-
-3. 🔥支持屏蔽启动钉钉后的安全风险提醒（试验性功能）
+1. 🔥支持屏蔽启动钉钉后的安全风险提醒（试验性功能）
 
 ## 🗓️可用范围
 
@@ -101,7 +99,8 @@
 | 7.5.11 | 7.5.11-Release.3179106 |
 | 7.5.13 | 7.5.13-Release.33110801、7.5.13-Release.41510801 |
 | 7.5.20 | 7.5.20-Release.4219102、7.5.20-Release.5099102 |
-| 7.5.22 | 7.5.22-Release.51010802 [【钉钉安装包历史版本下载】](https://www.wuleba.com/?p=1557) |
+| 7.5.22 | 7.5.22-Release.51010802 |
+| 7.5.30 | 7.5.30-Release.5179102 [【钉钉安装包历史版本下载】](https://www.wuleba.com/?p=1557) |
 
 ## 🔗下载地址
 
@@ -111,7 +110,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-6.1.2.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-6.2.0.png)
 
 ## 🔨使用方法
 
@@ -130,7 +129,7 @@
 
 注意：钉钉更新之后要重新安装补丁！
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/MessageUnRead.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/MessageUnRead-6.2.0.png)
 
 ![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Revoke.png)
 
