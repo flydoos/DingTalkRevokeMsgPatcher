@@ -173,3 +173,6 @@ QQ群：223541319 （催更请进群）
 
 本程序是作者闲暇之余，方便自己使用而开发的一个小工具。如果对其他人/公司造成不好的影响，请到QQ群联系作者，我会马上删除，谢谢。
 
+<p align="center">
+	<img width="100%" src="https://api.star-history.com/svg?repos=flydoos/FeiShuRevokeMsgPatcher&type=Date"/>
+</p>
