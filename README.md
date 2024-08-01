@@ -133,7 +133,7 @@
 
 注意：钉钉更新之后要重新安装补丁！
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/MessageUnRead-6.3.3.png)
+![Screenshot](https://raw.githubusercontent.com/flydoos/DingTalkRevokeMsgPatcher/main/Images/MessageUnRead-6.3.3.png)
 
 温馨提示：当你回复对方消息后，补丁会自动把 聊天窗口可视范围内的 最近几条消息，自动标记已读状态。如果不回复消息，则一直都是未读状态（需要发送文字消息，或发送图片消息才可以自动标记已读，如果大家往已经存在的消息上追加表情回复，这种不支持自动标记已读）
 
