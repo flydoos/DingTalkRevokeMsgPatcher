@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 	<a href="https://github.com/flydoos/DingTalkRevokeMsgPatcher/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/flydoos/DingTalkRevokeMsgPatcher?style=flat-square"></a>
-	<a href="https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=17718"><img src="https://img.shields.io/badge/platform-windows-lightgrey.svg?style=flat-square"/></a>
+	<a href="https://www.microsoft.com/zh-cn/download/details.aspx?id=17718"><img src="https://img.shields.io/badge/platform-windows-lightgrey.svg?style=flat-square"/></a>
 	<a href="https://github.com/flydoos/DingTalkRevokeMsgPatcher/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/flydoos/DingTalkRevokeMsgPatcher?style=flat-square"></a>
 	<a href="https://github.com/flydoos/DingTalkRevokeMsgPatcher/tags"><img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/flydoos/DingTalkRevokeMsgPatcher?style=flat-square"></a>
 	<a href="https://github.com/flydoos/DingTalkRevokeMsgPatcher/releases"><img src="https://img.shields.io/github/downloads/flydoos/DingTalkRevokeMsgPatcher/total.svg?style=flat-square"/></a>
@@ -130,7 +130,7 @@
 1. 首先，你的系统需要满足以下条件：
 
     * Windows XP 或更高版本。
-    * [.NET Framework 4.0](https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=17718) 或更高版本。**低于此版本在打开程序时可能无反应，或者直接报错**。
+    * [.NET Framework 4.0](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718) 或更高版本。**低于此版本在打开程序时可能无反应，或者直接报错**。
 
 2. 使用本程序前，先关闭钉钉。
 
