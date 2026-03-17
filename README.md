@@ -130,7 +130,8 @@
 | 8.2.4 | 8.2.4-Release.260104001 |
 | 8.2.5 | 8.2.5-Release.260112002 |
 | 8.2.10 | 8.2.10-Release.260130007、8.2.10-Release.260203007 |
-| 8.2.15 | 8.2.15-Release.260223001、8.2.15-Release.260225001 [【钉钉安装包历史版本下载】](https://www.wuleba.com/?p=1557) |
+| 8.2.15 | 8.2.15-Release.260223001、8.2.15-Release.260225001 |
+| 8.3.0 | 8.3.0-Release.260316010 [【钉钉安装包历史版本下载】](https://www.wuleba.com/?p=1557) |
 
 ## 🔗下载地址
 
@@ -140,7 +141,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-6.7.2.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/DingTalkRevokeMsgPatcher/Images/Screenshot-6.7.3.png)
 
 ## 🔨使用方法
 
